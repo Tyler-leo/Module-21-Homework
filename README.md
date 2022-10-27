@@ -188,7 +188,7 @@ Review the total supply of minted tokens and the amount of wei that the crowdsal
 
 ### Successful compliation of KaseiCownCrowdsale Contract
 
-![](Images/Successful_Successful_Coin_Contract_compilation.png)
+![](Images/Successful_Coin_Contract_compilation.png)
 
 ### Deploy and Test the Crwdsale on a Local Blockchain
 
