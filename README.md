@@ -182,4 +182,25 @@ Test the functionality of the crowdsale by using test accounts to buy new tokens
 Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
 
 ## Evaluation Evidence
+### Successful compilation KaseiCoin Contract
 
+![](Images/Successful_Contract_compilation.png)
+
+### Successful compliation of KaseiCownCrowdsale Contract
+
+![](Images/Successful_Successful_Coin_Contract_compilation.png)
+
+### Deploy and Test the Crwdsale on a Local Blockchain
+
+![](Images/Deploy1.png)
+
+### Metamask Deployment
+
+![](Images/Metamask1.png)
+
+![](Images/Metamask2.png)
+
+![](Images/Metamask3.png)
+
+### Ganache Account
+![](Images/Ganache_account2.png)
